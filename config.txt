@@ -45,8 +45,7 @@ prefix=Rm
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-//
-game=Listening to Example game!
+//game=Listening to Example game!
 
 
 // If you set this, it will modify the default status of bot
