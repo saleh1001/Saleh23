@@ -7,7 +7,6 @@
 // Open in Notepad++ for best results                  //
 /////////////////////////////////////////////////////////
 
-token=NTA1MDYzNTIxNjA5MDU2Mjk2.DrefqA.0ZyeJNTdIk7G_zaceMt92lERXgE
 
 // This sets the token for the bot to log in with
 // This MUST be a bot token (user tokens will not work)
